@@ -1,0 +1,23 @@
+.main{
+
+ 	text-align: center;
+ 	font-family: "Times New Roman", Times, serif;
+ 	text-transform: capitalize;
+}
+.logo {
+	padding-top: 10px;
+	display: block;
+	height: 35px;
+	position: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 40px;
+}
+
+.sign-up{
+
+	padding-top: 40px;
+	background-color: white;
+	width: 400px;
+	margin: auto;
+	padding-bottom:40px;
